@@ -1,0 +1,21 @@
+
+
+
+this is a test for git
+
+   the name of the file is tigua
+       like an acronyms
+
+for now if(actualiza){actualiza = guit_content
+           pass
+
+          else { need to be updated 
+                
+               and verified
+               } 
+
+
+
+        }
+
+exit
